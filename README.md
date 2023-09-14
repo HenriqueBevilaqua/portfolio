@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio.
 ![image](https://raw.githubusercontent.com/HenriqueBevilaqua/portfolio/main/assets/port.png)
 
 ## Ferramentas utilizadas:
